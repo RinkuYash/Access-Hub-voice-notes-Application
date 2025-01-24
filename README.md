@@ -17,3 +17,9 @@ Enable voice commands for performing essential actions such as adding, storing, 
 
 Assistive Technology Compatibility
 Ensure full compatibility with screen readers and other assistive technologies, making the web page accessible to visually impaired users. Cross-browser compatibility will also be prioritized to provide a consistent experience across different platforms.
+
+
+
+PROJECT DEPLOYED AT THIS LINK:
+
+https://elegant-chebakia-8021ab.netlify.app/
